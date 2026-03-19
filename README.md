@@ -1,5 +1,5 @@
 # Faith-based Affordable Housing Developments (2015-2025)
-This map visualizes the 200 developments collected in the database on faith-based affordable housing and shelter, led by Dr. Nadia Mian at the Voorhees Center for Civic Engagement. More details can be found by clicking this link: https://rwv.rutgers.edu/fbah/. 
+This map visualizes the 200 developments collected in the database on faith-based affordable housing and shelter, led by Dr. Nadia Mian at the Voorhees Center for Civic Engagement. More details can be found by clicking [this link](https://rwv.rutgers.edu/fbah/). 
 
 <iframe src="InteractiveWebmapFB.html" height="855" width="95%"></iframe>
 All 200 developments in the database (as of December 2025) are included in this map. These developments were cleaned extensively and geocoded using ArcGIS geocoder in Python, and visualized using the folium library. The pattern of faith-based housing developments being constructed can be visualized using the timeline slider, which populates the developments by year*. The construction time data was cleaned to bring it to a visualizable format in folium’s timeline slider tool. 
